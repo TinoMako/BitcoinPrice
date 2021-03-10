@@ -4,9 +4,9 @@ import json
 
 # global variables
 
-api_key = '81a33afe-4fe3-47b4-82cd-23e6fbfa03ef'
-bot_token = '1634436888:AAHQwPKNzjoaGfd1ErAi9EM4gBzqIfsN2q4'
-chat_id = '730615486'
+api_key = '81a33afe-4fe3-47b4-82cd-23e6fbfa03e'
+bot_token = '1634436888:AAHQwPKNzjoaGfd1ErAi9EM4gBzqIfsN2q'
+chat_id = '73061548'
 threshold = 30000
 time_interval = 0.5 * 60 # in seconds
 
